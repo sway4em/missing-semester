@@ -1,4 +1,4 @@
-```
+```bash
 cd /tmp
 mkdir missing
 cd missing
